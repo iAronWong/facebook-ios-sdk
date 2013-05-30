@@ -17,7 +17,7 @@
 #import "SUProfileTableViewCell.h"
 #import <FacebookSDK/FacebookSDK.h>
 
-static const CGFloat leftMargin = 10;
+static const CGFloat leftMargin = 10;///
 static const CGFloat topMargin = 5;
 static const CGFloat rightMargin = 30;
 static const CGFloat pictureWidth = 50;
